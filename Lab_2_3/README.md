@@ -10,5 +10,5 @@ Also, we have an introduciton to the importance of the pre-processing step on th
 ## Architecture 
 We have 3 files such as:
 - **Notebook_Lab_2_3**: source code
-- **Report_Lab_2**: the report associated to the questions of the Lab 2
-- **Report_Lab_3**: the report associated to the questions of the Lab 3
+- **Report_Lab2**: the report associated to the questions of the Lab 2
+- **Report_Lab3**: the report associated to the questions of the Lab 3
